@@ -16,3 +16,9 @@ Markdown syntax is **cool!**
 rsync -avz --delete --dry-run ./ laptop:Documents/
 test -f ./hi
 ```
+
+## Task list (step 4)
+
+- [ ] Find out how many more steps
+- [ ] Finish this
+- [ ] Go outside, it's nice
